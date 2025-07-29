@@ -1,0 +1,32 @@
+.main1{
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(180, 70, 156);
+    color: white;
+    
+    
+
+}
+
+.main2{
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(38, 144, 107);
+    color: aliceblue;
+    
+}
+.link2
+{
+    text-align: right;
+}
+.link1
+{
+    text-align: right;
+}
+
+#text1{
+    text-decoration: underline;
+}
+#text2{
+    text-decoration: underline;
+}
